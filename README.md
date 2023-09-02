@@ -7,11 +7,11 @@
 
 The repository includes the following technical indicators:
 
-1. 📈 Bollinger Bands
-2. 📉 Moving Average Convergence Divergence (MACD)
-3. 📊 Average True Range (ATR)
-4. 🔄 Commodity Channel Index (CCI)
-5. 📈 Williams %R
+- 📈 Bollinger Bands
+- 📉 Moving Average Convergence Divergence (MACD)
+- 📊 Average True Range (ATR)
+- 🔄 Commodity Channel Index (CCI)
+- 📈 Williams %R
 
 ## 📋 Indicator Descriptions
 
