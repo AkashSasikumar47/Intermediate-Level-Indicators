@@ -3,11 +3,7 @@
   <p>Technical indicators are essential tools for traders and investors in the stock market. They provide insights into market trends, volatility, and potential price movements. By analyzing these indicators, traders can make more informed decisions and improve their trading strategies. This repository explores a selection of intermediate-level technical indicators commonly used in trading and provides explanations, visual representations, and usage instructions.</p>
 </div>
 
-## Introduction
-
-Technical indicators are essential tools for traders and investors in the stock market. They provide insights into market trends, volatility, and potential price movements. By analyzing these indicators, traders can make more informed decisions and improve their trading strategies. This repository explores a selection of intermediate-level technical indicators commonly used in trading and provides explanations, visual representations, and usage instructions.
-
-## Included Indicators
+## 📈 Indicators Included
 
 The repository includes the following technical indicators:
 
@@ -17,7 +13,7 @@ The repository includes the following technical indicators:
 4. 🔄 Commodity Channel Index (CCI)
 5. 📈 Williams %R
 
-## Indicator Explanations
+## 📋 Indicator Descriptions
 
 ### Bollinger Bands
 ![Bollinger Bands](images/bollinger_bands.png)
@@ -90,16 +86,13 @@ To use the Williams %R indicator, follow these steps:
 3. Pay attention to crossovers between Williams %R and price for potential buy or sell signals.
 4. Use Williams %R in conjunction with other indicators for confirmation.
 
-## Usage and Instructions
+## 🚀 Usage and Instructions
 
 To use these indicators:
-1. Clone the repository: `https://github.com/AkashSasikumar47/Intermediate-Level-Indicators.git`
-2. Navigate to the indicator's directory.
-3. Read the documentation provided for each indicator.
-4. Run the scripts and adapt them to your trading strategies.
+1. Open the TradingView Pine Script editor.
+2. Copy the Pine Script code of the desired indicator from this repository.
+3. Paste the code in the Pine Script editor.
+4. Customize the indicator's parameters as needed.
+5. Apply the indicator to your chart to visualize its signals.
 
-Feel free to contribute improvements, optimizations, or additional indicators to this repository. Happy trading!
-
-## Disclaimer
-
-Please note that trading involves risk, and these indicators are tools to aid analysis but do not guarantee specific outcomes. Always combine technical analysis with other forms of research and risk management strategies.
+Feel free to explore, modify, and integrate these indicators into your trading strategies. Happy trading!
