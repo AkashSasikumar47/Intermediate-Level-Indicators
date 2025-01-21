@@ -91,7 +91,7 @@ To use the Commodity Channel Index (CCI) indicator, follow these steps:
 
 ### Williams %R
 ![Williams %R](images/williams_r.png)
-Williams %R identifies overbought and oversold conditions based on the close relative to the high-low range.
+Williams %R identifies overbought and oversold conditions based on the close relative to the high-low range. It confirms potential reversal points.
 
 **Use Case:**
 Williams %R confirms potential reversal points identified by other indicators.
