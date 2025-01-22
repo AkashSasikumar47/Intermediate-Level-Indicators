@@ -1,20 +1,7 @@
-<div align="center">
+<div>
   <h1>📊 Intermediate Level Indicators</h1>
   <p>Technical indicators are essential tools for traders and investors in the stock market. They provide insights into market trends, volatility, and potential price movements. By analyzing these indicators, traders can make more informed decisions and improve their trading strategies. This repository explores a selection of intermediate-level technical indicators commonly used in trading and provides explanations, visual representations, and usage instructions.</p>
 </div>
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Included Indicators](#included-indicators)
-3. [Indicator Explanations](#indicator-explanations)
-   - [Bollinger Bands](#bollinger-bands)
-   - [Moving Average Convergence Divergence (MACD)](#moving-average-convergence-divergence-macd)
-   - [Average True Range (ATR)](#average-true-range-atr)
-   - [Commodity Channel Index (CCI)](#commodity-channel-index-cci)
-   - [Williams %R](#williams-r)
-4. [Usage and Instructions](#usage-and-instructions)
-5. [Disclaimer](#disclaimer)
 
 ## Introduction
 
